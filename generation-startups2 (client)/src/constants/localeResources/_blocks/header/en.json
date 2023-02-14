@@ -1,0 +1,12 @@
+{
+    "mainLink": "MAIN",
+    "adsLink": "ADS",
+
+    "enterButton": "ENTER",
+    
+    "dropdown":{
+        "profile": "Profile",
+        "ads": "My Ads",
+        "exit": "Exit"
+    }
+}

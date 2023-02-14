@@ -1,0 +1,89 @@
+@import "~@csstools/normalize.css";
+@import "./styles/fonts.scss";
+
+*{
+  box-sizing: border-box;
+}
+
+body {
+  overflow-y: scroll;
+
+  margin: 0;
+
+  background-color: #F0F0F0;
+
+  font-family: "Montserrat", "Rubik", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+input,
+button,
+textarea,
+select {
+  font-family: "Montserrat", "Rubik", sans-serif;
+}
+
+textarea{
+  resize: none;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    /* display: none; <- Crashes Chrome on hover */
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+button {
+  cursor: pointer;
+
+  font-style: normal;
+
+&:disabled {
+   cursor: not-allowed;
+ }
+}
+
+ul{
+  margin: 0;
+  padding: 0;
+
+  list-style: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+
+  font-style: normal;
+}
+
+input::-ms-reveal,
+input::-ms-clear {
+  display: none;
+}
+
+a{
+  text-decoration: none;
+}
+
+#root {
+  display: flex;
+
+  flex-direction: column;
+
+  min-height: 100vh;
+}
+
+.container {
+  max-width: 1160px;
+  width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+}

@@ -1,0 +1,37 @@
+@import "../../styles/variables.scss";
+
+.modal-container {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.bg-closer{
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+
+  background: rgba(146, 146, 146, 0.5);
+  cursor: pointer;
+}
+
+.modal-card {
+  position: relative;
+  overflow-y: auto;
+  max-height: 930px;
+  max-width: 1200px;
+
+  border-radius: 8px;
+  background: $color__white;
+
+  z-index: 2;
+}
