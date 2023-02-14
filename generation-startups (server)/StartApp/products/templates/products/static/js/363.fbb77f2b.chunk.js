@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfreelance_exchange=self.webpackChunkfreelance_exchange||[]).push([[363],{363:function(e){e.exports=JSON.parse('{"mainLink":"MAIN","adsLink":"ADS","enterButton":"ENTER","dropdown":{"profile":"Profile","ads":"My Ads","exit":"Exit"}}')}}]);

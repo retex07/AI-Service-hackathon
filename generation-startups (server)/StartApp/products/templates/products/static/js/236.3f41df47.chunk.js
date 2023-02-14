@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfreelance_exchange=self.webpackChunkfreelance_exchange||[]).push([[236],{236:function(e){e.exports=JSON.parse('{"title":"\u0413\u043b\u0430\u0432\u043d\u0430\u044f \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0430"}')}}]);

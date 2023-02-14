@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfreelance_exchange=self.webpackChunkfreelance_exchange||[]).push([[69],{69:function(e){e.exports=JSON.parse('{"title":"Main page"}')}}]);

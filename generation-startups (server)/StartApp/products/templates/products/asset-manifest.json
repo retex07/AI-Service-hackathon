@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.af44d2e9.css",
+    "main.js": "/static/js/main.69dcb384.js",
+    "static/js/899.59939e5f.chunk.js": "/static/js/899.59939e5f.chunk.js",
+    "static/js/697.c38c0ea7.chunk.js": "/static/js/697.c38c0ea7.chunk.js",
+    "static/js/363.fbb77f2b.chunk.js": "/static/js/363.fbb77f2b.chunk.js",
+    "static/js/341.c1aab6d7.chunk.js": "/static/js/341.c1aab6d7.chunk.js",
+    "static/js/622.1824e7c5.chunk.js": "/static/js/622.1824e7c5.chunk.js",
+    "static/js/988.6cb97cf3.chunk.js": "/static/js/988.6cb97cf3.chunk.js",
+    "static/js/961.d7526476.chunk.js": "/static/js/961.d7526476.chunk.js",
+    "static/js/812.d6e071b1.chunk.js": "/static/js/812.d6e071b1.chunk.js",
+    "static/js/69.728c4a0b.chunk.js": "/static/js/69.728c4a0b.chunk.js",
+    "static/js/236.3f41df47.chunk.js": "/static/js/236.3f41df47.chunk.js",
+    "static/js/267.3c8f1b39.chunk.js": "/static/js/267.3c8f1b39.chunk.js",
+    "static/js/334.15ae3592.chunk.js": "/static/js/334.15ae3592.chunk.js",
+    "static/media/lamp4.gif": "/static/media/lamp4.4d53230edbcd3373cef7.gif",
+    "static/media/lamp.png": "/static/media/lamp.edc8726fbed70e562ba5.png",
+    "static/media/list.png": "/static/media/list.2c09555154109ad3d755.png",
+    "index.html": "/index.html",
+    "static/media/Montserrat-Bold.woff": "/static/media/Montserrat-Bold.31d6cfe0d16ae931b73c.woff",
+    "static/media/Montserrat-Bold.woff2": "/static/media/Montserrat-Bold.31d6cfe0d16ae931b73c.woff2",
+    "static/media/Montserrat-ExtraBold.woff": "/static/media/Montserrat-ExtraBold.31d6cfe0d16ae931b73c.woff",
+    "static/media/Montserrat-ExtraBold.woff2": "/static/media/Montserrat-ExtraBold.31d6cfe0d16ae931b73c.woff2",
+    "static/media/Montserrat-Light.woff": "/static/media/Montserrat-Light.31d6cfe0d16ae931b73c.woff",
+    "static/media/Montserrat-Light.woff2": "/static/media/Montserrat-Light.31d6cfe0d16ae931b73c.woff2",
+    "static/media/Montserrat-Medium.woff": "/static/media/Montserrat-Medium.31d6cfe0d16ae931b73c.woff",
+    "static/media/Montserrat-Medium.woff2": "/static/media/Montserrat-Medium.31d6cfe0d16ae931b73c.woff2",
+    "static/media/Montserrat-Regular.woff": "/static/media/Montserrat-Regular.31d6cfe0d16ae931b73c.woff",
+    "static/media/Montserrat-Regular.woff2": "/static/media/Montserrat-Regular.31d6cfe0d16ae931b73c.woff2",
+    "main.af44d2e9.css.map": "/static/css/main.af44d2e9.css.map",
+    "main.69dcb384.js.map": "/static/js/main.69dcb384.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af44d2e9.css",
+    "static/js/main.69dcb384.js"
+  ]
+}
